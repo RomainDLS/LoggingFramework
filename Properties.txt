@@ -1,0 +1,5 @@
+logger.com.esiea.projet.Test.level = DEBUG
+logger.com.esiea.projet.Test.formater = com.esiea.projet.FormaterDefault
+logger.com.esiea.projet.Test.cibles = com.esiea.projet.ConsoleCible
+logger.com.esiea.projet.Test.cibles = com.esiea.projet.FileCible log.txt
+logger.com.esiea.projet.Test.cibles = com.esiea.projet.RotateFileCible rlog.txt 10

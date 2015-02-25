@@ -1,0 +1,7 @@
+
+Tue Feb 24 19:25:00 CET 2015 [NAME=com.esiea.projet.Test, LEVEL=DEBUG, MESSAGE=test1]
+Tue Feb 24 19:25:00 CET 2015 [NAME=com.esiea.projet.Test, LEVEL=INFO, MESSAGE=test2]
+Tue Feb 24 19:25:00 CET 2015 [NAME=com.esiea.projet.Test, LEVEL=ERROR, MESSAGE=test3]
+Tue Feb 24 19:25:00 CET 2015 [NAME=com.esiea.projet.Test, LEVEL=DEBUG, MESSAGE=test1]
+Tue Feb 24 19:25:00 CET 2015 [NAME=com.esiea.projet.Test, LEVEL=INFO, MESSAGE=test2]
+Tue Feb 24 19:25:00 CET 2015 [NAME=com.esiea.projet.Test, LEVEL=ERROR, MESSAGE=test3]
